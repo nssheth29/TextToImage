@@ -1,12 +1,12 @@
 {
-  "name": "TextToImage",
+  "name": "texttoimage",
   "version": "0.1.0",
   "author": "Nirav Sheth <nssheth@imagequix.com>",
   "description": "Text To Image Buffer Conversion based on Cairo",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nssheth29/TextToImage"
+    "url": "git://github.com/nssheth29/texttoimage"
   },
   "scripts" : {
     "install": "node-gyp rebuild"
